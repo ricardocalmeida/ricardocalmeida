@@ -7,6 +7,7 @@ Fique à vontade para explorar meus projetos, abrir issues, contribuir com suges
 Vamos construir juntos o futuro da tecnologia! 🚀
 <br>
 <br>
+### Conecte-se comigo:
 <p>
 <a href="https://www.instagram.com/ricardinho.almeida/">
 <img align="left" alt="icon instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -16,6 +17,19 @@ Vamos construir juntos o futuro da tecnologia! 🚀
 <a/>  
 </p>  
 <br>
+<br>
+
+<p align="left">
+<br>
+  
+### Linguagens e ferramentas:
+
+</p>
+<br>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+
 <br>
 
 ![Ricardo Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocalmeida&show_icons=true&theme=transparent)
