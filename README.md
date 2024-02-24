@@ -7,11 +7,14 @@ Fique à vontade para explorar meus projetos, abrir issues, contribuir com suges
 Vamos construir juntos o futuro da tecnologia! 🚀
 <br>
 <br>
-
+<p>
 <a href="https://www.instagram.com/ricardinho.almeida/">
 <img align="left" alt="icon instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <a/>
-  
+<a href="https://www.linkedin.com/in/ricardo-almeida-6b88472b0/">
+<img align="left" alt="icon linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a/>  
+</p>  
 <br>
 <br>
 
